@@ -1,7 +1,7 @@
 <h1 align="center">CumulusCloud Pages</h1>
 <p align="center">All the errors page of CumulusCloud.
 
-<img src="docs/1.png" alt="Error 401" align="center"/> <img src="docs/2.png" alt="Error 400" style="margin-top: 50px;"/>
+<img src="docs/1.png" alt="Error 401" align="center"/> <br /> <img src="docs/2.png" alt="Error 400" align="center"/>
 <h2>Including:</h2>
 <ul>
     <li>400: Bad request</li>
