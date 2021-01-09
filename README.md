@@ -1,6 +1,7 @@
 <h1 align="center">CumulusCloud Pages</h1>
 <p align="center">
     All the errors page of CumulusCloud.
+
     <img src="docs/1.png" alt="Error 401" width="900px"/> <br /> <img src="docs/2.png" alt="Error 400" width="900px"/>
 </p>
 
